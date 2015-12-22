@@ -1,0 +1,12 @@
+.back-color {
+	Filter: alpha(opacity=60); /* For IE8 and earlier */
+	background-color: #00a8ff !important;
+}
+
+.menu-back{
+	display: none !important;
+}
+
+#map{
+	Filter: alpha(opacity=0); /* For IE8 and earlier */
+}
